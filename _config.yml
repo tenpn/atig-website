@@ -23,13 +23,19 @@ email: hi@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A welcoming and supportive community of game developers interested in test automation and quality engineering
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tenpn.github.io/atig-website/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.atig.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tenpn
 
+footer_menu: footer
+
+social:
+  linkedin: example.com
+
 # Build settings
-theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
