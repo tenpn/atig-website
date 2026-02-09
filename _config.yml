@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: "ATIG: Automated Testing In Games"
+title: "ATIG"
 
 # Your name to show in the footer
-author: ATIG Community
+author: Automated Testing In Games
 
 #url: "https://atig.dev"
 
@@ -24,11 +24,9 @@ author: ATIG Community
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Community: "https://discord.com/invite/kzWcY6ghAb"
+  Resources: "https://trello.com/b/nGE5yqZk/game-automated-testing-resource-hub"
+  GDC: "gdc/"
 
 ################
 # --- Logo --- #
@@ -36,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.svg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -53,7 +51,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "andrew@andrewfray.dev"
   discord: "kzWcY6ghAb"
 #  facebook: deanattali
 #  github: daattali
@@ -88,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -119,7 +117,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
@@ -139,16 +137,28 @@ keywords: "automation, testing, video games, videogames, game development, softw
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#3b3b3b"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#db971a"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
+
+#page-col: "#333333"
+#text-col: "#ffffff"
+#link-col: "#4B8F8C"
+#hover-col: "#84484A"
+#navbar-col: "#eec170"
+#navbar-text-col: "#333333"
+#navbar-border-col: "#333333"
+#footer-col: "#eec170"
+#footer-text-col: "#333333"
+#footer-link-col: "#84484A"
+#footer-hover-col: "#4B8F8C"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
