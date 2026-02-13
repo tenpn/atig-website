@@ -136,29 +136,29 @@ keywords: "automation, testing, video games, videogames, game development, softw
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#3b3b3b"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#db971a"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+# page-col: "#FFFFFF"
+# text-col: "#3b3b3b"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#db971a"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+# footer-hover-col: "#0085A1"
 
-#page-col: "#333333"
-#text-col: "#ffffff"
-#link-col: "#4B8F8C"
-#hover-col: "#84484A"
-#navbar-col: "#eec170"
-#navbar-text-col: "#333333"
-#navbar-border-col: "#333333"
-#footer-col: "#eec170"
-#footer-text-col: "#333333"
-#footer-link-col: "#84484A"
-#footer-hover-col: "#4B8F8C"
+page-col: "#121212" # Deep charcoal
+text-col: "#E0E0E0" # Off-white
+link-col: "#4DA3FF" # Lightened version of original blue for contrast
+hover-col: "#26C6DA" # Brighter teal to pop against the dark background
+navbar-col: "#1E1E1E" # Slightly lighter than page-col to create "elevation"
+navbar-text-col: "#D1D1D1" # Slightly muted white
+navbar-border-col: "#F5AA1E" # Brightened gold/orange to maintain the accent pop
+footer-col: "#1E1E1E" # Matches navbar
+footer-text-col: "#888888" # Muted grey for secondary text
+footer-link-col: "#D1D1D1" # Matches navbar text
+footer-hover-col: "#26C6DA" # Matches main hover
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
