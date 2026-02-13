@@ -6,7 +6,7 @@ subtitle: Roundtables, panels, talks and more
 
 The Automated Testing In Games community is dedicated to test automation and quality engineering in the video game industry.
 
-Members are involved in several sessions at GDC this year, which you can find bwloe, along with other automation and automation-adjacent sessions.
+Members are involved in several sessions at GDC this year, which you can find below, along with other automation and automation-adjacent sessions.
 
 If you'd like to stay involved with ATIG after GDC, [join us here](/index.html)!
 
