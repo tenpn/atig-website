@@ -10,7 +10,7 @@ If you'd like to stay involved with ATIG after GDC, [join us here](/index.html)!
 
 ## Automated Testing Roundtables
 
-HAving run for over a decade, these roundtables bring together people of all experience levels and budgets to discuss how they currently, or would like to, use automated testing of any form.
+Having run for over a decade, these roundtables bring together people of all experience levels and budgets to discuss how they currently, or would like to, use automated testing of any form.
 
 Moderated by ATIG veteran [Andrew Fray](https://andrewfray.dev), People propose questions and we open it up to the room to answer. All experience levels, budgets, genres and platforms are welcome.
 
