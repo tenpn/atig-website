@@ -151,14 +151,14 @@ keywords: "automation, testing, video games, videogames, game development, softw
 page-col: "#121212" # Deep charcoal
 text-col: "#E0E0E0" # Off-white
 link-col: "#4DA3FF" # Lightened version of original blue for contrast
-hover-col: "#26C6DA" # Brighter teal to pop against the dark background
+hover-col: "#F5AA1E" # Brighter teal to pop against the dark background
 navbar-col: "#1E1E1E" # Slightly lighter than page-col to create "elevation"
 navbar-text-col: "#D1D1D1" # Slightly muted white
 navbar-border-col: "#F5AA1E" # Brightened gold/orange to maintain the accent pop
 footer-col: "#1E1E1E" # Matches navbar
 footer-text-col: "#888888" # Muted grey for secondary text
 footer-link-col: "#D1D1D1" # Matches navbar text
-footer-hover-col: "#26C6DA" # Matches main hover
+footer-hover-col: "#F5AA1E" # Matches main hover
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
