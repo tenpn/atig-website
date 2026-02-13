@@ -24,9 +24,9 @@ author: Automated Testing In Games
 ###############################################
 
 navbar-links:
-  Community: "https://discord.com/invite/kzWcY6ghAb"
-  Resources: "https://trello.com/b/nGE5yqZk/game-automated-testing-resource-hub"
   GDC: "gdc/"
+  '<i class="fa-brands fa-discord"></i> Community': "https://discord.com/invite/kzWcY6ghAb"
+  '<i class="fa-brands fa-trello"></i> Resources': "https://trello.com/b/nGE5yqZk/game-automated-testing-resource-hub"
 
 ################
 # --- Logo --- #
