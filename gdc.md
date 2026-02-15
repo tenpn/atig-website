@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automated Testing at GDC
+title: Automated Testing at GDC '26
 subtitle: Roundtables, panels, talks and more
 description: Roundtables, panels, talks and more
 share-img: /assets/img/opengraph.png
